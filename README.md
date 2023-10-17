@@ -45,3 +45,5 @@ Per-domain in detail:
 | # of dialogues | 100  | 114 | 109 |
 | # of slot types | 5 (POI name, traffic info, POI category, address, distance) | 6 (event, time, date, party, room, agenda) | 4 (location, weekly time, temperature, weather attribute) |
 | # of distinct slot values | 131 | 79 | 78 |
+
+License: CC-BY-SA 4.0 Open Source License
