@@ -1,0 +1,7 @@
+{
+    "informable": { 
+        "area" : ["pusat","utara","barat","selatan","timur"],
+        "food" : ["afganistan", "afrika", "teh siang", "oriental asia", "australasia", "australia", "austria", "barbeku", "basque", "belgia", "bistro", "brasil", "UK", "canapes", "kanton", "karibia", "katalan", "cina", "natal", "corsica", "kreatif", "seberangan", "kuba", "denmark", "eropa timur", "inggris", "eritrea", "eropa", "perancis", "campuran", "pub gastronomi", "jerman", "yunani", "halal", "hungaria", "india", "indonesia", "internasional", "irlandia", "italia", "jamaika", "jepang", "korea", "kosher", "amerika latin", "lebanon", "makanan ringan", "malaysia", "mediterania", "meksiko", "timur tengah", "amerika modern", "eklektik modern", "eropa modern", "dunia modern", "molekular gastronomi", "maroko", "selandia baru", "afrika utara", "amerika utara", "india utara", "eropa utara", "panasian", "persia", "polandia", "polinesia", "portugal", "romania", "rusia", "skandinavia", "skotlandia", "makanan laut", "singapura", "afrika selatan", "india selatan", "spanyol", "sri lanka", "steakhouse", "swedia", "swiss", "thailand", "amerika", "tradisional", "turki", "tuscan", "tidak biasa", "vegetarian", "venetia", "vietnam", "wales", "dunia"],
+        "pricerange" : ["murah","sedang","mahal"]
+    }
+}
