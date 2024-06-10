@@ -25,11 +25,11 @@ Overall, it has four different domains by delexicalization to efficiently reduce
 
 ## IndoCamRest
 
-IndoCamRest is a synthetic task-oriented dialogue system dataset that translated from Cambridge Restaurant 676 (CamRest) dataset into the new Indonesian parallel dataset.
+IndoCamRest is a task-oriented dialogue system dataset that translated from Cambridge Restaurant 676 (CamRest) dataset into the new Indonesian parallel dataset.
 
 ## IndoSMD
 
-IndoSMD is a synthetic task-oriented dialogue system dataset that translated from In-Car Assistant (SMD) dataset into the new Indonesian dataset.
+IndoSMD is a task-oriented dialogue system dataset that translated from In-Car Assistant (SMD) dataset into the new Indonesian dataset.
 
 ## Results
 
