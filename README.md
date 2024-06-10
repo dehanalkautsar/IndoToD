@@ -14,7 +14,7 @@ This code has been written using PyTorch. If you use source codes or datasets in
 ```
 
 ## Summary
-We introduce IndoToD, a high-quality multi-domain task-oriented dialogue system data for Indonesian. It comprises two datasets: 
+We introduce IndoToD, a high-quality bilingual multi-domain task-oriented dialogue system data for Indonesian and English. It comprises two datasets: 
 - [IndoCamRest](https://github.com/dehanalkautsar/IndoToD/blob/main/README.md#indocamrest)
 - [IndoSMD](https://github.com/dehanalkautsar/IndoToD/blob/main/README.md#indosmd)
   
@@ -24,16 +24,19 @@ Overall, it has four different domains by delexicalization to efficiently reduce
 
 
 ## IndoCamRest
-
-IndoCamRest is a task-oriented dialogue system dataset that translated from Cambridge Restaurant 676 (CamRest) dataset into the new Indonesian parallel dataset.
+IndoCamRest is a task-oriented dialogue system dataset that translated from Cambridge Restaurant 676 (CamRest) dataset.
 
 ## IndoSMD
-
-IndoSMD is a task-oriented dialogue system dataset that translated from In-Car Assistant (SMD) dataset into the new Indonesian dataset.
+IndoSMD is a task-oriented dialogue system dataset that translated from In-Car Assistant (SMD) dataset.
 
 ## Results
+We set up a benchmark for both Indonesian and English ToD to evaluate the performance of the current ToD systems in monolingual, cross-lingual, and bilingual tasks. 
 
-<img src="imgs/indotod_results.png" width=1000>
+### Indonesian test set
+<img src="imgs/indotod_indonesian_results.png" width=1000>
+
+### English test set
+<img src="imgs/indotod_english_results.png" width=1000>
 
 # License
 The datasets are under CC-BY-SA 4.0 and the code is license under Apache 2.0.
