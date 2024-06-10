@@ -1,10 +1,19 @@
 # IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems
 
-This is the dataset repository of the SEALP 2023 paper: 
+This is the dataset repository of IndoToD, presented at SEALP 2023, colocated with AACL 2023, where our paper was honored with the Best Paper Award 🏆 [[ACL Anthology]](https://aclanthology.org/2023.sealp-1.7.pdf).
 
-**IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems**. Muhammad Dehan Al Kautsar, Rahmah Khoirussyifa' Nurdini, Samuel Cahyawijaya, Genta Indra Winata, Ayu Purwarianti.
+This code has been written using PyTorch. If you use source codes or datasets included in this toolkit in your work, please cite the following paper:
+<pre>
+@inproceedings{kautsar2023indotod,
+  title={IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems},
+  author={Kautsar, Muhammad and Nurdini, Rahmah and Cahyawijaya, Samuel and Winata, Genta and Purwarianti, Ayu},
+  booktitle={Proceedings of the First Workshop in South East Asian Language Processing},
+  pages={85--99},
+  year={2023}
+}
+</pre>
 
-This paper introduces IndoToD, an end-to-end multi-domain ToD benchmark in Indonesian. We extend two English ToD datasets to Indonesian, comprising four different domains by delexicalization to efficiently reduce the size of annotations. To ensure a high-quality data collection, we hire native speakers to manually translate the dialogues. Along with the original English datasets, these new Indonesian datasets serve as an effective benchmark for evaluating Indonesian and English ToD systems as well as exploring the potential benefits of cross-lingual and bilingual transfer learning approaches.
+We introduce two Indonesian ToD datasets, comprising four different domains by delexicalization to efficiently reduce the size of annotations. To ensure a high-quality data collection, we hire native speakers to manually annotate the dialogues. We annotated the data from existing English ToD datasets: CamRest and SMD. Along with the original English datasets, these new Indonesian datasets serve as an effective benchmark for evaluating Indonesian and English ToD systems as well as exploring the potential benefits of cross-lingual and bilingual transfer learning approaches.
 
 ## IndoCamRest
 
@@ -47,4 +56,4 @@ Per-domain in detail:
 | # of distinct slot values | 131 | 79 | 78 |
 
 # License
-This datasets are under CC-BY-SA 4.0 Open Source License
+The datasets are under CC-BY-SA 4.0 and the code is license under Apache 2.0.
