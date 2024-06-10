@@ -2,7 +2,7 @@
 
 This is the dataset repository of <b>IndoToD</b>, presented at SEALP 2023, colocated with AACL 2023, where our paper was awarded with the Best Paper 🏆 [[ACL Anthology]](https://aclanthology.org/2023.sealp-1.7.pdf).
 
-This code has been written using PyTorch. If you use source codes or datasets included in this toolkit in your work, please cite the following paper:
+This code has been written using PyTorch. If you use source codes or datasets included in this repository in your work, please cite the following paper:
 ```
 @inproceedings{kautsar2023indotod,
   title={IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems},
